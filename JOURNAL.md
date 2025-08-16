@@ -19,7 +19,10 @@ Later on i decided on a rp2354a I chose a "4" as the use case of the chip should
 
 started to look at example rp2354a schematics and read bits of the datasheet to understand how to create the pcb
 
-<img width="1366" height="966" alt="image" src="https://github.com/user-attachments/assets/f8a3c38d-0219-4b53-a657-5248306c0da5" />
+<img width="549" height="789" alt="image" src="https://github.com/user-attachments/assets/6a393f00-1f69-4a23-9c1a-12a51857d882" />
+<img width="890" height="745" alt="image" src="https://github.com/user-attachments/assets/4d6e996f-3961-4497-a0f7-3efa3b873d18" />
+
+
 
 
 **Total time spent: 0.75h == 45 mins**
