@@ -51,3 +51,11 @@ I continued following the hardware design at https://datasheets.raspberrypi.com/
 <img width="1178" height="826" alt="Schematic_RPKey_2025-08-17" src="https://github.com/user-attachments/assets/46079af5-533d-407b-98a8-6ae7473f382b" />
 
 **Total time spent: 3h == 180 mins**
+
+# August 17th: Started On the PCB Design!
+
+I started layout of the pcb but currently have a road block of my dcr check
+
+<img width="342" height="422" alt="image" src="https://github.com/user-attachments/assets/b6c86ffa-3eb7-453a-816e-8a844b4ab07a" />
+
+**Total time spent: 2.5h == 150 mins**
