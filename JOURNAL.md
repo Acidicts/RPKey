@@ -54,7 +54,7 @@ I continued following the hardware design at https://datasheets.raspberrypi.com/
 
 # August 17th: Started On the PCB Design!
 
-I started layout of the pcb but currently have a road block of my dcr check
+I started layout of the pcb but currently have a road block of my drc check
 
 <img width="342" height="422" alt="image" src="https://github.com/user-attachments/assets/b6c86ffa-3eb7-453a-816e-8a844b4ab07a" />
 
