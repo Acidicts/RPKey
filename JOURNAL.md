@@ -1,5 +1,5 @@
 ---
-Title: "RPKey"
+Title: "PiKey"
 Author: "Alex Hayes"
 Description: "A Hardware Authentication Key Powered by a rp2350!"
 Created On dd/mm/yyyy: "16/08/2025"
@@ -59,3 +59,7 @@ I started layout of the pcb but currently have a road block of my drc check
 <img width="342" height="422" alt="image" src="https://github.com/user-attachments/assets/b6c86ffa-3eb7-453a-816e-8a844b4ab07a" />
 
 **Total time spent: 2.5h == 150 mins**
+
+# August 19th: Decided to redo pcb design!
+
+Renaming the Project to PiKey and starting to create a new pcb design
