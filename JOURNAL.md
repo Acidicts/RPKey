@@ -63,3 +63,12 @@ I started layout of the pcb but currently have a road block of my drc check
 # August 19th: Decided to redo pcb design!
 
 Renaming the Project to PiKey and starting to create a new pcb design
+
+
+# August 19th: Created 2nd iteration of my PCB Design!
+
+Created new pcb to follow drc requirments
+
+<img width="373" height="474" alt="image" src="https://github.com/user-attachments/assets/5f5df065-e17e-4c80-9eb9-c4806a57f510" />
+
+**Total time spent: 1.5h == 90 mins**
