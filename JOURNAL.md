@@ -72,3 +72,12 @@ Created new pcb to follow drc requirments
 <img width="373" height="474" alt="image" src="https://github.com/user-attachments/assets/5f5df065-e17e-4c80-9eb9-c4806a57f510" />
 
 **Total time spent: 1.5h == 90 mins**
+
+
+# August 19th: Added some silkscreen art!
+
+Added custom silkscreen art because why not
+
+<img width="597" height="332" alt="image" src="https://github.com/user-attachments/assets/991167f8-f400-4253-b4cb-a5c906164f31" />
+
+**Total time spent: 0.2h == 12 mins**
