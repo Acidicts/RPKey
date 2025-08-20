@@ -18,7 +18,7 @@ So that is what I did!
 
 ### Now it is made
 
-<div style="display:flex; flex-direction:"row">
+<div style="display:flex; flex-direction:row">
   <img width="274" height="534" alt="pcb" src="https://github.com/user-attachments/assets/ada8d68d-e0ae-4311-80f7-c94865b7aa63" />
   <img width="1178" scale=0.5 height="826" alt="schematic" src="https://github.com/user-attachments/assets/8e3831ca-d0a6-4922-8b97-50add0275069" />
 </div>
