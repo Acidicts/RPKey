@@ -4,6 +4,9 @@ This is a project that was created as yubikeys cost a great deal for something t
 
 When a Pico could be used using <a href="https://github.com/polhenarejos/pico-fido">Pico Fido</a>
 
+But Picos are expensive and I could just learn to make one.
+So that is what I did!
+
 ----
 
 ### This started with just a idea:
