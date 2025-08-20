@@ -18,7 +18,12 @@ So that is what I did!
 
 ### Now it is made
 
-<div style="display:flex; flex-direction:"row">
+<div style="display:flex; flex-direction:"row"">
   <img width="25%" alt="pcb" src="https://github.com/user-attachments/assets/ada8d68d-e0ae-4311-80f7-c94865b7aa63" />
   <img width="70%" alt="schematic" src="https://github.com/user-attachments/assets/8e3831ca-d0a6-4922-8b97-50add0275069" />
+</div>
+
+<div style="display:flex; flex-direction:"row"">
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/913f7452-9ffb-4990-9ddd-4ac47e5cae70" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/99c5e7cc-cec0-4f3d-b1bd-1fb8e48250d0" />
 </div>
