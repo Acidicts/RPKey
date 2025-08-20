@@ -73,6 +73,15 @@ Created new pcb to follow drc requirments
 
 **Total time spent: 1.5h == 90 mins**
 
+# August 19th: Changed which usb-c port I use!
+
+Changed usb-c male port used as the footprint didn't include the port shape
+
+<img width="383" height="313" alt="image" src="https://github.com/user-attachments/assets/d8bcc441-1660-465d-bff2-383ad1b61cfd" />
+
+
+**Total time spent: 0.4h == 24 mins**
+
 
 # August 19th: Added some silkscreen art!
 
