@@ -55,7 +55,7 @@ I continued following the hardware design at https://datasheets.raspberrypi.com/
 
 **Total time spent: 3h == 180 mins**
 
-## Started On the PCB Design!
+## Made the PCB Design!
 
 I started layout of the pcb but currently have a road block of my drc check
 
