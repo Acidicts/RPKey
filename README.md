@@ -19,7 +19,7 @@ So that is what I did!
 
 <div style="display:flex; flex-direction:"row"">
   <img width="25%" alt="pcb" src="https://placehold.co/200x250" />
-  <img width="70%" alt="schematic" src="https://placehold.co/400x680" />
+  <img width="70%" alt="schematic" src="https://placehold.co/400x160" />
 </div>
 
 <div style="display:flex; flex-direction:"row"">
