@@ -5,7 +5,8 @@ Description: "A Hardware Authentication Key Powered by a rp2350!"
 Created On dd/mm/yyyy: "16/08/2025"
 ---
 
-# June 16th: Decided on using RP2354A!
+# June 16th:
+## Decided on using RP2354A!
 
 I looked at the datasheet to decide which chip to use.
 I chose a "A" chip as i don't need the amount of pins found on the "B" chips
@@ -15,7 +16,8 @@ Later on i decided on a rp2354a I chose a "4" as the use case of the chip should
 
 **Total time spent: 0.1h = 6 mins**
 
-# August 16th: Started research!
+# August 16th
+## Started research!
 
 started to look at example rp2354a schematics and read bits of the datasheet to understand how to create the pcb
 
@@ -24,7 +26,8 @@ started to look at example rp2354a schematics and read bits of the datasheet to 
 
 **Total time spent: 0.75h == 45 mins**
 
-# August 17th: Decided on a linear Voltage regulator!
+# August 17th
+## Decided on a linear Voltage regulator!
 
 I continued following the hardware design at https://datasheets.raspberrypi.com/rp2350/hardware-design-with-rp2350.pdf
 and decided to use the NCP1117ST33T3G instead of the NCP1117-3.3_SOT223
@@ -35,7 +38,7 @@ and decided to use the NCP1117ST33T3G instead of the NCP1117-3.3_SOT223
 **Total time spent: 0.5h == 30 mins**
 
 
-# August 17th: Continued Building up the Schematic!
+## Continued Building up the Schematic!
 
 I continued following the hardware design at https://datasheets.raspberrypi.com/rp2350/hardware-design-with-rp2350.pdf
 
@@ -52,7 +55,7 @@ I continued following the hardware design at https://datasheets.raspberrypi.com/
 
 **Total time spent: 3h == 180 mins**
 
-# August 17th: Started On the PCB Design!
+## Started On the PCB Design!
 
 I started layout of the pcb but currently have a road block of my drc check
 
@@ -60,12 +63,13 @@ I started layout of the pcb but currently have a road block of my drc check
 
 **Total time spent: 2.5h == 150 mins**
 
-# August 19th: Decided to redo pcb design!
+# August 19th:
+## Decided to redo pcb design!
 
 Renaming the Project to PiKey and starting to create a new pcb design
 
 
-# August 19th: Created 2nd iteration of my PCB Design!
+## Created 2nd iteration of my PCB Design!
 
 Created new pcb to follow drc requirments
 
@@ -73,7 +77,7 @@ Created new pcb to follow drc requirments
 
 **Total time spent: 1.5h == 90 mins**
 
-# August 19th: Changed which usb-c port I use!
+## Changed which usb-c port I use!
 
 Changed usb-c male port used as the footprint didn't include the port shape
 
@@ -83,7 +87,7 @@ Changed usb-c male port used as the footprint didn't include the port shape
 **Total time spent: 0.4h == 24 mins**
 
 
-# August 19th: Added some silkscreen art!
+## Added some silkscreen art!
 
 Added custom silkscreen art because why not
 
@@ -91,7 +95,7 @@ Added custom silkscreen art because why not
 
 **Total time spent: 0.2h == 12 mins**
 
-# August 19th: Issue with getting screenshot of order!
+## Issue with getting screenshot of order!
 
 Unable to create the order due to lack of components
 
@@ -104,3 +108,5 @@ components such as the rp2354a cannot be swapped out as the board is built aroun
 Decided to restart from the schematic to use the RP2350A instead of the RP2354A due to JLCPCB stock
 
 <img width="1866" height="384" alt="image" src="https://github.com/user-attachments/assets/6a81bce1-449f-4cb2-84c2-cf3302249f49" />
+
+# 
