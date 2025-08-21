@@ -90,3 +90,11 @@ Added custom silkscreen art because why not
 <img width="597" height="332" alt="image" src="https://github.com/user-attachments/assets/991167f8-f400-4253-b4cb-a5c906164f31" />
 
 **Total time spent: 0.2h == 12 mins**
+
+# August 19th: Issue with getting screenshot of order!
+
+Unable to create the order due to lack of components
+
+components such as the rp2354a cannot be swapped out as the board is built around it
+
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/5c41a9b7-80c9-40c8-9c57-e84a32eccad7" />
