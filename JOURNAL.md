@@ -98,3 +98,9 @@ Unable to create the order due to lack of components
 components such as the rp2354a cannot be swapped out as the board is built around it
 
 <img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/5c41a9b7-80c9-40c8-9c57-e84a32eccad7" />
+
+# August 21th: 3rd try is a charm
+
+Decided to restart from the schematic to use the RP2350A instead of the RP2354A due to JLCPCB stock
+
+<img width="1866" height="384" alt="image" src="https://github.com/user-attachments/assets/6a81bce1-449f-4cb2-84c2-cf3302249f49" />
