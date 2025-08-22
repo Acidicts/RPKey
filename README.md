@@ -18,11 +18,11 @@ So that is what I did!
 ### Now it is made
 
 <div style="display:flex; flex-direction:"row"">
-  <img width="25%" alt="pcb" src="https://placehold.co/200x250" />
-  <img width="70%" alt="schematic" src="https://placehold.co/400x160" />
+  <img width="25%" alt="pcb" src="https://github.com/Acidicts/RPKey/blob/66fb4056ec55252c06997f6e9628637077a8e672/assets/pcb.png" />
+  <img width="70%" alt="schematic" src="https://github.com/Acidicts/RPKey/blob/66fb4056ec55252c06997f6e9628637077a8e672/assets/schematic.png" />
 </div>
 
 <div style="display:flex; flex-direction:"row"">
-  <img width="45%" alt="image" src="https://placehold.co/400" />
-  <img width="45%" alt="image" src="https://placehold.co/400" />
+  <img width="45%" alt="image" src="https://github.com/Acidicts/RPKey/blob/66fb4056ec55252c06997f6e9628637077a8e672/assets/Front_PCB.png" />
+  <img width="45%" alt="image" src="https://github.com/Acidicts/RPKey/blob/66fb4056ec55252c06997f6e9628637077a8e672/assets/Back_PCB.png" />
 </div>
