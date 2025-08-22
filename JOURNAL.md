@@ -147,3 +147,11 @@ I finished the pcb and made it as compact as possible ( as small as I could make
 <img width="346" height="635" alt="image" src="https://github.com/user-attachments/assets/559d224e-2e45-435b-b972-ca0c7084b68f" />
 
 **Total time spent: 1h == 60 mins**
+
+## Added Silkscreen Decoration
+
+- Added Hacklub Logo
+- Added a Custom Secured by Raspberry Pi Logo
+- Added a Powered by RP2350A Descriptor
+
+**Total time spent: 0.3h == 18 mins**
