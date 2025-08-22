@@ -19,7 +19,7 @@ So that is what I did!
 
 <div style="display:flex; flex-direction:"row"">
   <img width="25%" alt="pcb" src="https://github.com/Acidicts/RPKey/blob/66fb4056ec55252c06997f6e9628637077a8e672/assets/pcb.png" />
-  <img width="70%" alt="schematic" src="https://github.com/Acidicts/RPKey/blob/66fb4056ec55252c06997f6e9628637077a8e672/assets/schematic.png" />
+  <img alt="schematic" src="https://github.com/Acidicts/RPKey/blob/66fb4056ec55252c06997f6e9628637077a8e672/assets/schematic.png" />
 </div>
 
 <div style="display:flex; flex-direction:"row"">
