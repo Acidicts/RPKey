@@ -154,4 +154,9 @@ I finished the pcb and made it as compact as possible ( as small as I could make
 - Added a Custom Secured by Raspberry Pi Logo
 - Added a Powered by RP2350A Descriptor
 
+<img width="490" height="696" alt="image" src="https://github.com/user-attachments/assets/6e960ad9-4c84-47aa-a32c-b89e01a41256" />
+<img width="263" height="335" alt="image" src="https://github.com/user-attachments/assets/792219f6-ce9b-4f1c-bcef-ebb7db6e29ab" />
+
+
+
 **Total time spent: 0.3h == 18 mins**
