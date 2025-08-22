@@ -116,3 +116,19 @@ Due to lack of usb-c male connectors i will be using a usb-c female connector
 Although this means the device cannot be directly plugged into a device it can be manuvered around said device
 
 ♂️➡️♀️
+
+**Total time spent: 0.2h == 12 mins**
+
+# August 22nd
+## Started making the schematic
+
+I added
+- a Boot Button 
+- a flash memory chip
+- a crystal oscillator
+- decoupling capacitors
+- input power supply
+
+<img width="2923" height="2066" alt="Schematic_RPKey_2025-08-22" src="https://github.com/user-attachments/assets/e301a1a2-454e-445b-8f2a-75f683df6d56" />
+
+**Total time spent: 1h == 60 mins**
