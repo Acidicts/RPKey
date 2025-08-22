@@ -132,3 +132,18 @@ I added
 <img width="2923" height="2066" alt="Schematic_RPKey_2025-08-22" src="https://github.com/user-attachments/assets/e301a1a2-454e-445b-8f2a-75f683df6d56" />
 
 **Total time spent: 1h == 60 mins**
+
+## Finished Schematic, Started PCB
+
+I finsihed the schematic and then went on to start the pcb
+
+<img width="1604" height="827" alt="Schematic_RPKey_2025-08-22" src="https://github.com/user-attachments/assets/23a7e05e-cb96-4d2f-984a-111c3de5e0dc" />
+
+**Total time spent: 1.5h == 90 mins**
+
+## Finished PCB
+I finished the pcb and made it as compact as possible ( as small as I could make it )
+
+<img width="346" height="635" alt="image" src="https://github.com/user-attachments/assets/559d224e-2e45-435b-b972-ca0c7084b68f" />
+
+**Total time spent: 1h == 60 mins**
